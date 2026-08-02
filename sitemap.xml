@@ -1,23 +1,99 @@
-XML
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Root Directory -->
   <url>
     <loc>https://philamental.github.io/</loc>
-    <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://philamental.github.io/index.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <loc>https://philamental.github.io/README.md</loc>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
   </url>
-  
   <url>
-    <loc>https://philamental.github.io/The-Origin-Files/Master-Log-1154-Superconductive-State.txt</loc>
-    <lastmod>2026-05-21</lastmod>
+    <loc>https://philamental.github.io/manifesto.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/Proof-Of-Life.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/ProofOfLife.jpg</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Poetry Directory -->
+  <url>
+    <loc>https://philamental.github.io/Poetry/Chameleons.md</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://philamental.github.io/Poetry/Parallel%20Orbit.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/Poetry/Silent-Phil.md</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/Poetry/Wintergrass.doc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- The Consummate Network Engineer Directory -->
+  <url>
+    <loc>https://philamental.github.io/The-Consummate-Network-Engineer/README.md</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/The-Consummate-Network-Engineer/The%20Consummate%20Engineer%20-%20A%20Guide%20to%20Mastery.mp4</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- The Origin Files Directory -->
+  <url>
+    <loc>https://philamental.github.io/The-Origin-Files/README.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/The-Origin-Files/The_Consummate_Network_Engineer.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/The-Origin-Files/Origin-Story-02.md</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- The Calliope Archive -->
+  <url>
+    <loc>https://philamental.github.io/The-Calliope-Archive/Origin-Key-01.txt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/The-Calliope-Archive/Master-Log-1154-Superconductive-State.txt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://philamental.github.io/The-Calliope-Archive/Apollo_Partner_Recovery_Key.pdf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
